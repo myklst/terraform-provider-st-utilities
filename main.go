@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	"terraform-provider-st-utilities/utilities"
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
+	"github.com/myklst/terraform-provider-st-utilities/utilities"
 )
 
 // Provider documentation generation.

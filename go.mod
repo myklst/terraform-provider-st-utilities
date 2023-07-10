@@ -1,4 +1,4 @@
-module terraform-provider-st-utilities
+module github.com/myklst/terraform-provider-st-utilities
 
 go 1.19
 
