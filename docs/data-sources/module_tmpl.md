@@ -12,7 +12,7 @@ This data source produce desired output base on the template and input defined.
 
 ## Example Usage
 
-```
+```terraform
 data "st-utilities_module_tmpl" "module_tmpl" {
   module_info = {
     brand        = "sige"
