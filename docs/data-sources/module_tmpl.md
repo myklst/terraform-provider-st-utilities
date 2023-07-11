@@ -18,7 +18,7 @@ data "st-utilities_module_tmpl" "template" {
   module_info = {
     brand        = "sige"
     env          = "basic"
-		region       = "cn-hongkong"
+    region       = "cn-hongkong"
   }
   module_tmpl = {
     output_1 = "{brand}/{env}/output"
